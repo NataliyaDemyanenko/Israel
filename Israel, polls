@@ -43,16 +43,16 @@ for p in parties:
 
                              # Introduce campaign commitments
 friends={}
-friends['A']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
+friends['A']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N'
 friends['B']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
 friends['C']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
-friends['D']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
+friends['D']='A','B','C', 'D', 'E', 'I', 'K', 'L', 'M', 'N'
 friends['E']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
-friends['F']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
-friends['G']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
-friends['H']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
-friends['I']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
-friends['J']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
+friends['F']='A','B','C', 'E', 'F', 'G', 'H', 'K', 'L', 'M', 'N'
+friends['G']='A','B','C', 'E', 'F', 'G', 'H', 'K', 'L', 'M', 'N'
+friends['H']='A','B','C', 'E', 'F', 'G', 'H', 'K', 'L', 'M', 'N'
+friends['I']='A','B','C', 'D', 'E', 'I', 'J', 'K', 'L', 'M', 'N'
+friends['J']='B','C', 'E', 'I', 'J', 'K', 'L', 'M', 'N'
 friends['K']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
 friends['L']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
 friends['M']='A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N'
